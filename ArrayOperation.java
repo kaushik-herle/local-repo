@@ -1,3 +1,4 @@
+/* We are given a Array, if the Product of 1st half of the array is less than the Product of 2nd half of the array then Reverse the array. Otherwise let it be. */
 import java.util.Scanner;
 
 public class ArrayOperation{
